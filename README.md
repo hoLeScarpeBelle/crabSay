@@ -1,8 +1,8 @@
 # crabSay
 a simple cowsay but with a crab
-
+<pre>
 --
-<hi>
+/hi/
 --
  \
   \
@@ -10,3 +10,4 @@ a simple cowsay but with a crab
   \) /  o o  \ (/
     '_   -   _' 
     / '-----' \
+</pre>
